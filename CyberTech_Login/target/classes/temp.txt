@@ -1,0 +1,1 @@
+docker run --name cybertech_login -e POSTGRES_PASSWORD=root -d -p 5432:5432 postgres
