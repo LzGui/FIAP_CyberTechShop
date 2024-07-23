@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg" alt="logo da fiap" width=30%/>
 </div>
 
-<h1 align="center">Cyber Tech Shopr</h1>
+<h1 align="center">Cyber Tech Shop</h1>
 
 E-commerce
 
