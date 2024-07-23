@@ -1,0 +1,5 @@
+# Created at 2024-07-22T19:30:37.809
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Guilherme\Cursos\Java\FIAP\Tech_Challenge_05\CyberTech_ShopCart\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

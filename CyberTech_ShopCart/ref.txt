@@ -1,0 +1,5 @@
+docker-compose up -d
+
+docker ps
+
+docker run --name mysql-shopcart -e MYSQL_ROOT_PASSWORD=root_password -e MYSQL_DATABASE=shopcart -e MYSQL_USER=root -e MYSQL_PASSWORD=root -p 3306:3306 -d mysql:8.0
